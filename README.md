@@ -1,1 +1,1 @@
-# megait_cs
+MegaIT Data Structures and Algorithms Class
